@@ -1,4 +1,5 @@
 # Kickstarter-Campaign-Data-Analysis
+Using Microsoft Excelt to analyze data related to Kickstarter Campaigns
 
 Richmond BCS Homework #1:
 
