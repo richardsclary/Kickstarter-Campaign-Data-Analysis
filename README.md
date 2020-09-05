@@ -1,6 +1,6 @@
-# Kickstarter-Campaign-Data-Analysis
+# KICKSTARTER CAMPAIGN DATA ANALYSIS
 
-Using Microsoft Excelt to analyze data related to Kickstarter Campaigns
+Uses Microsoft Excel to analyze data related to Kickstarter campaigns.
 
 Richmond BCS Homework #1:
 
